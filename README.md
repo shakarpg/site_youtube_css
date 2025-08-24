@@ -48,7 +48,7 @@ Clique em Save.
 
 O site ficará disponível em:
 
-https://SEU_USUARIO.github.io/NOME_DO_REPOSITORIO
+https://SEU_USUARIO.github.io/site_youtube_css
 
 ## 🛠️ Tecnologias usadas
 
